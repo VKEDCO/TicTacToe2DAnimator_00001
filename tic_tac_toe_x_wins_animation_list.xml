@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/x_wins_00" android:duration="500" />
+	<item android:drawable="@drawable/x_wins_01" android:duration="500" />
+	<item android:drawable="@drawable/x_wins_02" android:duration="500" />
+	<item android:drawable="@drawable/x_wins_03" android:duration="500" />
+	<item android:drawable="@drawable/x_wins_04" android:duration="500" />
+	<item android:drawable="@drawable/x_wins_05" android:duration="500" />
+	<item android:drawable="@drawable/x_wins_06" android:duration="500" />
+	<item android:drawable="@drawable/x_wins_07" android:duration="500" />
+	<item android:drawable="@drawable/x_wins_08" android:duration="500" />
+</animation-list>
